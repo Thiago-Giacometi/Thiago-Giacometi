@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working with SAP ERP management
 
-- 💬 Studying **JavaScript, HTML, CSS, REACT, Node.JS**
+- 🌱 Studying **JavaScript, HTML, CSS, REACT, Node.JS**
 
 <br>
 
